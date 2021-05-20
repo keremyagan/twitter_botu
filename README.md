@@ -7,6 +7,6 @@ Mail doğrulaması için MailTm hizmetini kullandım.
 
 "twitter_tweet" dosyasındaki 234.satır üzerinden gönderilecek tweet içeriğini değiştireblirsiniz.
 
-Güncel chromedriver dosyasını ekledim fakat kullandığınız Chrome sürümüne ait driver'ı https://chromedriver.chromium.org/downloads burada bulabilirsiniz.
+Güncel chromedriver dosyasını ekledim fakat kullandığınız Chrome sürümüne ait driver'ı bulmak için gidiniz: https://chromedriver.chromium.org/downloads  
 
 Aynı ip adresi üzerinden birden fazla hesap oluşturulması telefon doğrulaması gerektirebilir.
